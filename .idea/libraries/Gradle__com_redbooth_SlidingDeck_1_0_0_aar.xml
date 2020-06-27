@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.redbooth:SlidingDeck:1.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1cef9b838a8c8cf12a92b92ca5247e5d/jetified-SlidingDeck-1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1cef9b838a8c8cf12a92b92ca5247e5d/jetified-SlidingDeck-1.0.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.redbooth/SlidingDeck/1.0.0/99794e92b477d66b2af1b0533e2fa2f2e10d628f/SlidingDeck-1.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.redbooth/SlidingDeck/1.0.0/e6e1babb88c439487068bff22f83102dd0386edb/SlidingDeck-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
